@@ -1,0 +1,23 @@
+{
+    "kwargs0": {
+        "energy": 200000.0,
+        "ensemble_axes_metadata": [],
+        "extent": [
+            8.16,
+            8.16
+        ],
+        "metadata": {
+            "base_tilt_x": 0.0,
+            "base_tilt_y": 0.0,
+            "energy": 200000.0,
+            "normalization": "values",
+            "reciprocal_space": false
+        },
+        "reciprocal_space": false,
+        "sampling": [
+            0.04,
+            0.04
+        ]
+    },
+    "type0": "Waves"
+}
